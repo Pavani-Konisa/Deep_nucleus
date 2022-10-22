@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "979963341254",
+    "firebase_url": "https://deep-nucleus-10e76-default-rtdb.firebaseio.com",
+    "project_id": "deep-nucleus-10e76",
+    "storage_bucket": "deep-nucleus-10e76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979963341254:android:0cd82358497309f1332ac7",
+        "android_client_info": {
+          "package_name": "com.example.deep_nucleus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979963341254-26v721r6p2e15djl42sti44tglmq38u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_IZRW9LF2fo9P7by0JXGi2Kp1caTb2Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979963341254-26v721r6p2e15djl42sti44tglmq38u7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
